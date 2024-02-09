@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/NewsMonkey/static/css/main.31d6cfe0.css",
-    "main.js": "/NewsMonkey/static/js/main.c4d11cda.js",
+    "main.js": "/NewsMonkey/static/js/main.d27bf334.js",
     "static/js/592.d53f2e83.chunk.js": "/NewsMonkey/static/js/592.d53f2e83.chunk.js",
     "static/media/about-card.jpg": "/NewsMonkey/static/media/about-card.6cb67635df116ec8fee2.jpg",
     "static/media/defalut.jpg": "/NewsMonkey/static/media/defalut.3f37e96d8d04d1e67452.jpg",
@@ -9,11 +9,11 @@
     "static/media/facebook.svg": "/NewsMonkey/static/media/facebook.f3d7b17896f725ead9fb659ca4d66c38.svg",
     "static/media/instagram.svg": "/NewsMonkey/static/media/instagram.1c5704361799c3095ff8b89db8d15326.svg",
     "static/media/twitterx.svg": "/NewsMonkey/static/media/twitterx.a7b34d04f45aaa5019d5bfa1f5270a30.svg",
-    "main.c4d11cda.js.map": "/NewsMonkey/static/js/main.c4d11cda.js.map",
+    "main.d27bf334.js.map": "/NewsMonkey/static/js/main.d27bf334.js.map",
     "592.d53f2e83.chunk.js.map": "/NewsMonkey/static/js/592.d53f2e83.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.c4d11cda.js"
+    "static/js/main.d27bf334.js"
   ]
 }
