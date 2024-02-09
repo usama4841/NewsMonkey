@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "totalResults": 34,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "By Chris Lau, Nadeen Ebrahim and <a href=\"/profiles/andrew-raine\">Andrew Raine</a>, CNN",
+      "title": "US launches strikes in Iraq and Syria as Israel-Hamas war rages: Live updates - CNN",
+      "description": "The US says it has struck 85 targets linked to Iran-backed militias in Iraq and Syria in response to a drone strike in Jordan that killed three American soldiers. Follow for live updates.",
+      "url": "https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-02-03-24/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/240124103559-khan-younis-migrate-012224-super-tease.jpeg",
+      "publishedAt": "2024-02-03T18:34:00Z",
+      "content": "Pope Francis on Saturday reiterated the Catholic Churchs condemnation of every form of anti-Judaism and anti-semitism, in a letter released by the Vatican addressed to my Jewish brothers and sisters … [+1208 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": null,
+      "title": "Kingsbury backs out of talks to be OC of Raiders - ESPN",
+      "description": "Former Cardinals coach Kliff Kingsbury has withdrawn himself from consideration for the Raiders' offensive coordinator position after contract talks broke down.",
+      "url": "https://www.espn.com/nfl/story/_/id/39451194/kliff-kingsbury-backs-consideration-raiders-oc",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0913%2Fr1061642_1296x729_16%2D9.jpg",
+      "publishedAt": "2024-02-03T17:57:00Z",
+      "content": "Kliff Kingsbury has withdrawn from consideration for the Las Vegas Raiders' offensive coordinator position, his agent, Erik Burkhardt, told ESPN's Adam Schefter.\r\nContract talks broke down after sour… [+1041 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hollywood Reporter" },
+      "author": "Pamela McClintock",
+      "title": "Box Office: Matthew Vaughn and Apple’s Big-Budget ‘Argylle’ Bombing With $16.5M U.S. Debut - Hollywood Reporter",
+      "description": "Audiences slapped the $200 million movie with a C+ CinemaScore, but it will still top the North American box office, thanks to little competition.",
+      "url": "http://www.hollywoodreporter.com/movies/movie-news/argylle-box-office-bombs-1235814232/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/02/5776_D033_00044R_CROP-H-2024.jpg?w=1024",
+      "publishedAt": "2024-02-03T17:12:13Z",
+      "content": "Spurned by many critics and consumers alike, Matthew Vaughn‘s pricey spy-comedy Argylle is bombing at the North American box office in the biggest miss to date for Apple’s theatrical ambitions. \r\nThe… [+2689 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Boston Globe" },
+      "author": null,
+      "title": "Evaluating every NFL coaching hire of the 2024 cycle - The Boston Globe",
+      "description": "Though offense is king in today’s NFL, five of the eight new coaches have defensive backgrounds.",
+      "url": "https://www.bostonglobe.com/2024/02/03/sports/new-nfl-head-coaches-2024/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/6BSM03Lq9SoJ7Q2MgrxpvvCBToM=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/OF36NZTBXZRFUORBYHONBRJTDA.jpg",
+      "publishedAt": "2024-02-03T17:11:37Z",
+      "content": "Raheem Morris, Falcons: The Falcons considered Bill Belichick, plus a dozen other candidates, but probably landed in the right spot with Morris, who coached for the Falcons from 2015-20. Morris has a… [+13612 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Tampa Bay Times" },
+      "author": "Dan Sullivan, Jay Cridlin, Justin Garcia",
+      "title": "'I'm losing engine.' Pilot reported trouble before Clearwater plane crash. - Tampa Bay Times",
+      "description": "Air traffic recording and flight logs illuminate the harrowing moments before and after the plane went down, killing the pilot and two on the ground.",
+      "url": "https://www.tampabay.com/news/clearwater/2024/02/03/im-losing-engine-pilot-reported-trouble-before-clearwater-plane-crash/",
+      "urlToImage": "https://www.tampabay.com/resizer/0EeKaQmwe5YwH1oA3Zn4q59ASbY=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/KUXGAVYHMRC3BGIQAVEIQIFM64.jpg",
+      "publishedAt": "2024-02-03T16:44:13Z",
+      "content": "CLEARWATER Moments before a small airplane fell from the sky and plowed into a Clearwater mobile home park Thursday evening, the pilot made a panicked emergency radio call.\r\nComing to Albert Whitted … [+6260 chars]"
+    }
+  ]
+}
