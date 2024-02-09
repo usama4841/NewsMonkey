@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/github.io/NewsMonkey/static/css/main.87032f6f.css",
+    "main.js": "/github.io/NewsMonkey/static/js/main.71b01cf9.js",
+    "static/js/592.d53f2e83.chunk.js": "/github.io/NewsMonkey/static/js/592.d53f2e83.chunk.js",
+    "static/media/about-card.jpg": "/github.io/NewsMonkey/static/media/about-card.6cb67635df116ec8fee2.jpg",
+    "static/media/defalut.jpg": "/github.io/NewsMonkey/static/media/defalut.3f37e96d8d04d1e67452.jpg",
+    "index.html": "/github.io/NewsMonkey/index.html",
+    "static/media/facebook.svg": "/github.io/NewsMonkey/static/media/facebook.f3d7b17896f725ead9fb659ca4d66c38.svg",
+    "static/media/instagram.svg": "/github.io/NewsMonkey/static/media/instagram.1c5704361799c3095ff8b89db8d15326.svg",
+    "static/media/twitterx.svg": "/github.io/NewsMonkey/static/media/twitterx.a7b34d04f45aaa5019d5bfa1f5270a30.svg",
+    "main.87032f6f.css.map": "/github.io/NewsMonkey/static/css/main.87032f6f.css.map",
+    "main.71b01cf9.js.map": "/github.io/NewsMonkey/static/js/main.71b01cf9.js.map",
+    "592.d53f2e83.chunk.js.map": "/github.io/NewsMonkey/static/js/592.d53f2e83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87032f6f.css",
+    "static/js/main.71b01cf9.js"
+  ]
+}
